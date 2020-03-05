@@ -30,3 +30,4 @@ deploy:
   on:
     repo: Rakha112/uhuy
     all_branches: true
+    
