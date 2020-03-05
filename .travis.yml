@@ -28,6 +28,5 @@ deploy:
   api_key: $uhuy
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
-    repo: Rakha112/uhuy
+    repo: Rakha112/UHUY
     all_branches: true
-    
